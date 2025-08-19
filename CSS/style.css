@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(232, 252, 255)
+}
+
+.text
+
+    {
+        font-family: "Bebas Neue", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+      }
+      
+h1{
+
+}
+
+h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 700; 
+    color: cadetblue;
+}
